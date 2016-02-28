@@ -360,6 +360,7 @@ cite {
 }
 .text-primary {
   color: #164bb1;
+  font-family: pokemonsolid;
 }
 .text-warning {
   color: #EE7836;
@@ -3598,6 +3599,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
+  font-family: pokemonsolid;
   padding: 14px 15px;
   font-size: 20px;
   line-height: 22px;
@@ -5847,6 +5849,10 @@ td.visible-print {
   td.hidden-print {
     display: none !important;
   }
+}
+@font-face {
+  font-family: pokemonsolid;
+  src: url('../fonts/PokemonSolid.ttf');
 }
 .form-control {
   -webkit-box-shadow: none;
