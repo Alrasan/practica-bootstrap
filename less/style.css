@@ -1,19 +1,23 @@
-/* 
+/*
     Created on : 28-feb-2016, 15:40:58
     Author     : Fran Lapuente <franlapuentedev@gmail.com>
 */
 
-#info{
+#info {
     margin-bottom: 3em;
 }
 
-.social-media{
+.social-media {
     font-size: 4em;
     padding-left: 2.5em;
 }
 
-@media screen and(max-width: 480px){
-    .social-media{
+.galeria {
+    margin-top: 1em;
+}
+
+@media screen and(max-width: 480px) {
+    .social-media {
         font-size: 3em;
     }
 }
